@@ -1,6 +1,6 @@
-博客
+董贤超博客
 ===
 
-http://overtrue.me
+https://mr-tung.github.io/
 
-终于还是告别了wordpress。:see_no_evil:
+:see_no_evil::see_no_evil::see_no_evil::see_no_evil:
