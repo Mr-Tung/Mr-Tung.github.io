@@ -10,7 +10,7 @@ encoding: "utf-8"
 
 url: http://overtrue.me
 baseurl:  "/"
-domain:    overtrue.me
+domain:    
 permalink:     /articles/:year/:month/:title.html
 paginate_path: 'page:num'
 paginate:   10
