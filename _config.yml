@@ -1,7 +1,7 @@
-title: overtrue | 安正超博客
-name: overtrue
-email: anzhengchao@gmail.com
-description: 安正超(overtrue)，PHP工程师，从事web相关的开发工作。开源爱好者，GitHub:https://github.com/overtrue。
+title: Mr-Tung | 董贤超博客
+name: Mr-Tung
+email: 1163598478@qq.com
+description: 董贤超(Mr-Tung)，PHP工程师，从事web相关的开发工作。开源爱好者，GitHub:https://github.com/Mr-Tung。
 keywords: Laravel,Laravel教程,Laravel安装,Laravel视频,安正超,PHP,overtrue,Pinyin,汉字转拼音
 skill_keywords: [PHP, Javascript, HTML+CSS, Swift, Linux, Laravel, Git, Mac, RESTful, Stackoverflow, Sublime Text, OmniGaffale, OmniPlan]
 
@@ -14,7 +14,7 @@ domain:    overtrue.me
 permalink:     /articles/:year/:month/:title.html
 paginate_path: 'page:num'
 paginate:   10
-source_code: https://github.com/overtrue/overtrue.github.io
+source_code: https://github.com/Mr-Tung/Mr-Tung.github.io
 
 # Build settings
 lsi:         false
