@@ -1,16 +1,16 @@
 {
-  "name": "overtrue.github.io",
-  "description": "overtrue blog",
+  "name": "Mr-Tung.github.io",
+  "description": "Mr-Tung blog",
   "main": "",
   "authors": [
-    "overtrue <anzhengchao@gmail.com>"
+    "overtrue <1163598478@qq.com>"
   ],
   "license": "MIT",
   "keywords": [
-    "overtrue",
+    "Mr-Tung",
     "blog"
   ],
-  "homepage": "https://github.com/overtrue/overtrue.github.io",
+  "homepage": "https://github.com/Mr-Tung/Mr-Tung.github.io",
   "moduleType": [],
   "ignore": [
     "**/.*",
