@@ -8,7 +8,7 @@ skill_keywords: [PHP, Javascript, HTML+CSS, Swift, Linux, Laravel, Git, Mac, RES
 timezone:    PRC
 encoding: "utf-8"
 
-url: http://Mr-Tung.me
+#url: http://Mr-Tung.me
 baseurl:  "/"
 domain:    
 permalink:     /articles/:year/:month/:title.html
