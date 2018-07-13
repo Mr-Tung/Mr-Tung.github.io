@@ -5,7 +5,7 @@ menu: About
 ---
 {% assign current_year = site.time | date: '%Y' %}
 
-董贤超超
+董贤超
 ===
 男 90后
 
@@ -13,7 +13,7 @@ menu: About
 
 - 邮箱：1163598478@qq.com
 - 主页：[https://mr-tung.github.io/](https://mr-tung.github.io/)
-- 微博：[@安正超](http://weibo.com/)
+- 微博：[@电竞搬砖佬](http://weibo.com/5788811658)
 
 计算机专业毕业，{{ current_year | minus: 2015 }} 年在职工作经验，{{ current_year | minus: 2013 }} 年 web 开发经验。
 
